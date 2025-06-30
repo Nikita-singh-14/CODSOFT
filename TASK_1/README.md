@@ -31,6 +31,6 @@ To run this project locally, follow these steps:
 ## Contact
 If you have any questions or feedback, feel free to reach out to me:
 
-* Email: [nikitasingh@email.com](mailto:nikitasingh@email.com)
-* LinkedIn: [linkedin.com/in/nikitasingh](https://www.linkedin.com/in/nikitasingh/)
+* Email: [nk2371174@gmail.com](mailto:nikitasingh@email.com)
+* LinkedIn: [linkedin.com/in/nikitasingh](https://www.linkedin.com/in/nikita-singh-3560652bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
