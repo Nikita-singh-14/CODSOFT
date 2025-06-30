@@ -16,7 +16,7 @@ This is a landing page project, created as part of the Codsoft internship progra
 * Call-to-action buttons
 
 ## Live Demo
-You can view the live demo of my landing page [here](https://nikita-singh-14.github.io/landing-page/).
+You can view the live demo of my landing page [here](https://nikita-singh-14.github.io/CODSOFT/).
 
 ## Installation
 To run this project locally, follow these steps:
