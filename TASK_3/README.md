@@ -5,7 +5,7 @@ This is a simple calculator project, created as part of the Codsoft internship p
 
 ## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## Technologies Used
 * HTML
