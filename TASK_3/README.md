@@ -19,7 +19,7 @@ This is a simple calculator project, created as part of the Codsoft internship p
 * Responsive design
 
 ## Live Demo
-You can view the live demo of my calculator [here](https://nikita-singh-14.github.io/TASK_3/).
+You can view the live demo of my calculator [here](https://nikita-singh-14.github.io/CODSOFT/).
 
 ## Installation
 To run this project locally, follow these steps:
