@@ -29,6 +29,6 @@ Desktop Screenshot	Mobile Screenshot
 
 📝 Author
 Nikita Singh
-📧 durwashininetam@gmail.com
+📧 nk2371174@gmail.com
 🔗 LinkedIn
 🐙 GitHub
