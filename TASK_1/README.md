@@ -1,47 +1,35 @@
-🌐 Personal Portfolio Website
+# Portfolio Page
 
-This is a responsive personal portfolio website built using HTML and CSS as part of the CodSoft Web Development Internship – Task 1 (Level 1).
+## Overview
+This is my portfolio page, showcasing my skills and projects. It is a simple yet elegant design that highlights my work and experience.
 
-📌 Task Objective
+## Screenshots
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-Create a personal portfolio webpage that includes details like:
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
 
-Introduction/About Me
+## Features
+* Responsive design
+* Interactive elements
+* Project showcase
 
-Skills
+## Live Demo
+You can view the live demo of my portfolio page [here](https://nikita-singh-14.github.io/portfolio-page/).
 
-Projects
-Resume section (Downloadable)
-Contact information
-Clean UI and responsive design
+## Installation
+To run this project locally, follow these steps:
 
-🔧 Tech Stack
-HTML5
-CSS3
-Google Fonts (Poppins)
-GitHub Pages (for deployment)
+1. Clone the repository: `git clone https://github.com/Nikita-singh-14/portfolio-page.git`
+2. Navigate to the project directory: `cd portfolio-page`
+3. Open the `index.html` file in your browser.
 
-💡 Features
-Fully responsive layout
+## Contact
+If you have any questions or feedback, feel free to reach out to me:
 
-Stylish and clean design
+* Email: [nikitasingh@email.com](mailto:nikitasingh@email.com)
+* LinkedIn: [linkedin.com/in/nikitasingh](https://www.linkedin.com/in/nikitasingh/)
 
-Resume download button
-
-Section-based navigation
-
-Links to GitHub and LinkedIn
-
-📸 Screenshots
-Desktop View	Mobile View
-Desktop Screenshot	Mobile Screenshot
-
-🚀 Live Demo
-
-🔗 Click here to view the live portfolio
-
-📝 Author
-Nikita Singh
-📧 nk2371174@gmail.com
-🔗 LinkedIn
-🐙 GitHub
