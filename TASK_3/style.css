@@ -54,3 +54,22 @@ form input.operator{
     color: rgb(0, 0, 0);
     font-size: x-large;
 }
+
+
+@media (max-width: 480px) {
+  .calculator {
+    padding: 5px;
+  }
+  .calculator form input {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    margin: 3px;
+  }
+  form .display input {
+    font-size: 25px;
+  }
+  form input.equal {
+    width: 90px;
+  }
+}

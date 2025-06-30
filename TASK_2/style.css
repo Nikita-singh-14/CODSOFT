@@ -87,11 +87,9 @@ header button{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-
     align-items: center;
     justify-content: center;
-    height: 60vh;
-    padding-top:9rem ;
+    padding:12rem ;
 }
 .home-sec{
     width: 50%;
@@ -105,15 +103,13 @@ header button{
     font-size: larger;
 }
 .home .home-sec button{
-    margin-top: 20px;
-    
+    margin-top: 20px;  
 }
 .home .home-sec p{
     margin-top: 10px;
 }
 .home .home-sec .btn{
-    border-radius: 1rem;
-    
+    border-radius: 1rem;  
     padding: 10px;
     border: none;
     background-color:rgb(6, 115, 119) ;
@@ -130,22 +126,25 @@ header button{
 /*extra-feature section*/
 .extra-featiures{
     background-color: orangered;
-    height: 10rem;
+    
     display: flex;
      align-items: center;
     justify-content: center;
     color: white;
 }
 .extra-featiures .first{
+    padding: 3rem;
     width: 20rem;
 }
 /*service section*/
 .service{
     display: flex;
-     align-items: center;
+    align-items: center;
     justify-content: center;
     gap: 6rem;
-    height: 25rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    
 }
 .service .serv img{
     width: 15rem;
@@ -167,7 +166,7 @@ header button{
     align-items: center;
     justify-content: center;
     gap: 5rem;
-    height: 60vh;
+    
 }
 .about .btn{
     border-radius: 1rem;
@@ -187,7 +186,6 @@ header button{
     margin-top: 30px;
 }
 footer{
-    height: 5rem;
     background-color: rgb(16, 124, 124);
     color: white;
     display: grid;
@@ -199,6 +197,7 @@ footer .top{
     align-items: center;
     justify-content: center;
     gap: 15rem;
+    padding-top: 10px;
 }
 footer h3{
     color: black;
@@ -206,3 +205,97 @@ footer h3{
 footer .f-link{
     padding-right: 5px;
 }
+footer .copy{
+    padding-bottom: 10px;
+}
+footer .f-info p i{
+    padding: 5px;
+}
+
+
+
+
+ 
+
+
+@media (max-width: 520px) {
+    .info{
+    display: none;
+    
+}
+
+  /* header */
+  header {
+    flex-direction: column;
+    gap: 1rem;
+    height: auto;
+    padding-bottom: 10px;
+    
+  }
+  header .sec {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  /* home */
+  .home {
+    padding: 2rem;
+  }
+  .home-sec {
+    width: 90%;
+  }
+
+  .extra-featiures{
+    display: grid;
+}
+.extra-featiures .first{
+    padding: 0.7rem;
+    width: 15rem;
+}
+
+  /* service */
+  .service {
+    display: grid;
+  }
+  .service .serv{
+    padding: 0.1rem;
+  }
+  .service .serv img {
+    width: 10rem;
+  }
+
+/* about */
+  .about {
+    display: grid;
+    
+  }
+  .about .left {
+    width: 80%;
+  }
+  .about img{
+    width: 15rem;
+    padding: 1.5rem;
+  }
+  .about .left {
+    width: 90%;
+    padding: 1.5rem;
+}
+
+
+
+
+
+  footer{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+footer .top{
+    display: grid;
+    gap: 5px;
+}
+}
+
+
+
