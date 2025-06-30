@@ -4,7 +4,7 @@
 This is a simple calculator project, created as part of the Codsoft internship program. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Screenshots
-<img src="screenshots/screenshot.png" width="350" height="400">
+<img src="screenshots/screenshot.png" width="350" height="500">
 
 
 
