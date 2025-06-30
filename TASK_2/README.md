@@ -1,33 +1,32 @@
-🌐 Personal Portfolio Website
+Overview
+This is a landing page project, created as part of the Codsoft internship program. The page is designed to showcase a product or service in a visually appealing way.
 
-This is a responsive personal portfolio website built using HTML and CSS as part of the CodSoft Web Development Internship – Task 1 (Level 1).
+## Screenshots
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-📌 Task Objective
+## Technologies Used
+* HTML
+* CSS
 
-Create a personal portfolio webpage that includes details like:
+## Features
+* Responsive design
+* Clean and modern layout
+* Call-to-action buttons
 
-Introduction/About Me
+## Live Demo
+You can view the live demo of my landing page [here](https://nikita-singh-14.github.io/landing-page/).
 
-Skills
+## Installation
+To run this project locally, follow these steps:
 
-Projects Resume section (Downloadable) Contact information Clean UI and responsive design
+1. Clone the repository: `git clone https://github.com/Nikita-singh-14/CODSOFT.git`
+2. Navigate to the project directory: `cd CODSOFT/TASK-2`
+3. Open the `index.html` file in your browser.
 
-🔧 Tech Stack HTML5 CSS3 Google Fonts (Poppins) GitHub Pages (for deployment)
+## Contact
+If you have any questions or feedback, feel free to reach out to me:
 
-💡 Features Fully responsive layout
+* Email: [nikitasingh@email.com](mailto:nikitasingh@email.com)
+* LinkedIn: [linkedin.com/in/nikitasingh](https://www.linkedin.com/in/nikitasingh/)
 
-Stylish and clean design
-
-Resume download button
-
-Section-based navigation
-
-Links to GitHub and LinkedIn
-
-📸 Screenshots Desktop View Mobile View Desktop Screenshot Mobile Screenshot
-
-🚀 Live Demo
-
-🔗 Click here to view the live portfolio
-
-📝 Author Nikita Singh 📧 nk2371174@gmail.com 🔗 LinkedIn 🐙 GitHub
