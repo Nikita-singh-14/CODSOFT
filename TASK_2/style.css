@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: black;
+    margin-left: 12%;
+    padding-top: 30px;
+}
+hr{
+    width: 5rem;
+    color: rgb(21, 131, 131);
+    background-color:rgb(21, 131, 131) ;
+    height: 4px;
+    border-radius: 5px;
+    margin-left: 12%;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+    background-color: rgb(10, 120, 120);
+    height: 3rem;
+    color: white;
+}
+.link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+.link i{
+    font-size: large;
+}
+.line{
+    height: 3rem;
+    width: 0.4rem;
+    background-color: white;
+}
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+.info button{
+    padding: 7px 1rem 7px 1rem;
+    border-radius: 25px;
+    background-color:  rgb(10, 120, 120);
+    color: white;
+    border: 2px solid white;
+}
+
+/*header*/
+header{
+    height: 3rem;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8rem;
+}
+header .sec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+header .sec a{
+    text-decoration: none;
+    color: black;
+}
+header button{
+    background-color: red;
+    height: 3rem;
+    width: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    font-size: larger;
+}
+/*home*/
+.home{
+    background-image: url('background.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    padding-top:9rem ;
+}
+.home-sec{
+    width: 50%;
+    justify-content: space-between;
+    padding-left: 16.8%;
+    color: white;
+}
+
+.home .home-sec h3{
+    color: black;
+    font-size: larger;
+}
+.home .home-sec button{
+    margin-top: 20px;
+    
+}
+.home .home-sec p{
+    margin-top: 10px;
+}
+.home .home-sec .btn{
+    border-radius: 1rem;
+    
+    padding: 10px;
+    border: none;
+    background-color:rgb(6, 115, 119) ;
+    border: 2px solid white;
+}
+.home .home-sec .red{
+    background-color:brown;
+    border: none;
+}
+.home .home-sec .red:hover{
+    background-color: red;
+}
+
+/*extra-feature section*/
+.extra-featiures{
+    background-color: orangered;
+    height: 10rem;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+    color: white;
+}
+.extra-featiures .first{
+    width: 20rem;
+}
+/*service section*/
+.service{
+    display: flex;
+     align-items: center;
+    justify-content: center;
+    gap: 6rem;
+    height: 25rem;
+}
+.service .serv img{
+    width: 15rem;
+}
+.service .serv .ser{
+    width: 10rem;
+    box-shadow: 2px solid rgb(79, 62, 62);
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    background-color: rgb(128, 184, 184);
+}
+
+/*About Section*/
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+    height: 60vh;
+}
+.about .btn{
+    border-radius: 1rem;
+    
+    padding: 10px;
+    border: none;
+    background-color:brown ;
+    border: 2px solid white;
+}
+.about .btn:hover{
+    background-color: red;
+}
+.about .left {
+    width: 30%;
+}
+.about .left button{
+    margin-top: 30px;
+}
+footer{
+    height: 5rem;
+    background-color: rgb(16, 124, 124);
+    color: white;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+footer .top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15rem;
+}
+footer h3{
+    color: black;
+}
+footer .f-link{
+    padding-right: 5px;
+}
