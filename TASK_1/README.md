@@ -6,6 +6,8 @@ This is my portfolio page, showcasing my skills and projects. It is a simple yet
 ## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
+<img src="screenshots/screenshot2.png" width="300" height="200">
+
 
 ## Technologies Used
 * HTML
