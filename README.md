@@ -10,25 +10,33 @@ Projects
 Resume section (Downloadable)
 Contact information
 Clean UI and responsive design
+
 🔧 Tech Stack
 HTML5
 CSS3
 Google Fonts (Poppins)
 GitHub Pages (for deployment)
+
 💡 Features
 Fully responsive layout
 Stylish and clean design
 Resume download button
 Section-based navigation
 Links to GitHub and LinkedIn
+
 📸 Screenshots
 Desktop View	Mobile View
 Desktop Screenshot	Mobile Screenshot
+
 🚀 Live Demo
 🔗 Click here to view the live portfolio
 
 📝 Author
+
 Nikita Singh
+
 📧 nk2371174@gmail.com
+
 🔗 LinkedIn
+
 🐙 GitHub
